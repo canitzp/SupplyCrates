@@ -1,0 +1,20 @@
+tile.hosenlab2.oreCopper.name=Copper Ore
+tile.hosenlab2.oreTin.name=Tin Ore
+tile.hosenlab2.oreBauxite.name=Bauxite Ore
+tile.hosenlab2.oreLead.name=Lead Ore
+tile.hosenlab2.oreSilver.name=Silver Ore
+tile.hosenlab2.oreNickel.name=Nickel Ore
+item.hosenlab2.dustBauxite.name=Aluminium Dust
+itemGroup.tabHosenlab2=Hosenlab 2
+tile.hosenlab2.passportChecker.name=Passport Checker
+item.hosenlab2.manBerry.name=Man Berry
+item.hosenlab2.xdqmhosePassport.name=xdqmhose Passport
+item.hosenlab2.EllpeckPassport.name=Ellpeck Passport
+
+tile.hosenlab2.supplyCrateMK1.name=Hosencorp Supply Crate Wood
+tile.hosenlab2.supplyCrateMK2.name=Hosencorp Supply Crate Iron
+tile.hosenlab2.supplyCrateMK3.name=Hosencorp Supply Crate Diamond
+
+item.hosenlab2.crateSpawnerMK1.name=Hosencorp Supply Crate Wood Spawner
+item.hosenlab2.crateSpawnerMK2.name=Hosencorp Supply Crate Iron Spawner
+item.hosenlab2.crateSpawnerMK3.name=Hosencorp Supply Crate Diamond Spawner

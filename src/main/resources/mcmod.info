@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hosenlab2",
+  "name": "Hosenlab 2",
+  "description": "Mod for the Modpack Hosenlab 2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["canitzp"],
+  "credits": "canitzp, xdqmhose, Ellpeck",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["etfuturum", "fusion", "netherrocks", "simpleores", "erebus"]
+}
+]
